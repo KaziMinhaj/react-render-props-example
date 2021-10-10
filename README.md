@@ -1,2 +1,2 @@
-# react-render-props-example
+# React_HOC_example
 Created with CodeSandbox
